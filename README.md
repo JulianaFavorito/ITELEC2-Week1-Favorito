@@ -11,3 +11,4 @@ Section: 3.5 BSIT
 ## What I learned
 - Compile errors I triggered: CS1002 (a semicolon is missing at the end of a statement), CS0103 (a name is misspelled or has the wrong letter case, such as console instead of Console).
 - My prediction for 250 / 4 with int values was 62 and the result was 62 because dividing two int values drops the decimal part.
+- Edited on GitHub to practice git pull.
